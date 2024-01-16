@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tjeri/OneDrive/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/tjeri/OneDrive/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/H9/ZXW35QZ846CG0ZVBJIK5MF.uasset",
+				"C:/Users/tjeri/OneDrive/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/K5/AD508A3Q2ZEYIQ5OL37MNV.uasset"
+			]
+		}
+	]
+}

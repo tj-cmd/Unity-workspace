@@ -1,0 +1,2230 @@
+fileFormatVersion: 2
+guid: 0a9c27702c030469cb9f253a4e5006e5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a5b9b7b10a44990b61978c65892c92
+      internalID: -1934591175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c113e82af7214db1a16e6948fa83de2
+      internalID: -1245138306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51865c3e62ae7477dbb5d87cb88e4e81
+      internalID: -1292163979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2977679afe59471c98ab5ab1aa8ca02
+      internalID: 1521802165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec17e338a71fc48b9b973379a979eb60
+      internalID: 780043515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96c450d681f9448185f682397101fe7
+      internalID: 1110404147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588a1dabb78484678b5da5511e869e45
+      internalID: -1715954653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7686b40e7f9924a398d3c3c5ddf6e494
+      internalID: 1013734924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551ae50c82dc140138787f4f252109fc
+      internalID: -831733956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56347ea707c6a49c0b37f427f4893dac
+      internalID: -1986918394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a6496b1620d48d6b07dd766e811e09
+      internalID: 2014664878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_11
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6031450900b3a49fdb4309146e477264
+      internalID: -1173213271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_12
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791177e18aedf4de2b9c5b7789a8e308
+      internalID: -588126583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_13
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aad9df81a60a4d3d8e87593d2d124a3
+      internalID: 265707576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_14
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba45c13d951a473f9eefa33878950d5
+      internalID: -907960447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_15
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc20ca26565754847a806a30e9e5a4e3
+      internalID: 1670905579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_16
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686d89b3816ea4430b92c8ed2bb6284b
+      internalID: -19715548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_17
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1431d2bdebdde4d6482038493604ea35
+      internalID: -254860972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_18
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c790b052f5d434fb79dbd1b831afe240
+      internalID: -1677575821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_19
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c560d7f5558cd416586d738f981b2cd1
+      internalID: 845396393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_20
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fe158efe77449508c4f4fa97d84400
+      internalID: -51004121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_21
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e46b52e8b7bc4e14834e1c61feb2419
+      internalID: -1857339459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_22
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612b7b9302a4742e98b36cd094f75553
+      internalID: 1933360938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_23
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2646e6c3ae3d945c7b4feed990da6403
+      internalID: 326778546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_24
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7eb738e2e0b5475ea56945a9474a8d0
+      internalID: -1768862636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_25
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e558eecd94849bbbfe24eb5808f6ee
+      internalID: 319341168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_26
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42a79478cf234a01a747a81d212ad03
+      internalID: -1361643914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_27
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f25937127534c95a5ae94d7f3b556d
+      internalID: -1902440984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_28
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074fd437e92ec4c39bb3fe41783b3afe
+      internalID: -906797020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_29
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2716e86a29e74522a0bab55bb37263f
+      internalID: 1698795575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_30
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 132
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d179eb0a5624d6ca57b00446afb2a5
+      internalID: 1811121887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c32a940f9fc477a8fce04714268562
+      internalID: 1331333818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0537ee77e765a42b0ac62bef0d8ac3c7
+      internalID: 81725038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_33
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805a88f2fa3e14cc49f75708e5761208
+      internalID: -1920643299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b5d2c19df794650acb77c08ff8d2af
+      internalID: -921123492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf61f53087af435b9c76135bbd22b37
+      internalID: 1089525539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_36
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a870047c584a24849ac33d9764bffdb8
+      internalID: -389298676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_37
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749438146af2d47c68e62ca7c844055e
+      internalID: 416193823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_38
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049d4914218204d8ba50fd8782e05585
+      internalID: -876432347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd42fbb6bc7e48fa9ce6124bbd3b261
+      internalID: -898489047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_40
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c24b004e766f4499ab7d49d9c25f01b
+      internalID: 1058697702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_41
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb5b1a3cd71d44dc8d1fcbfffa2ef4f
+      internalID: -1038967966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_42
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c8d400104d04fba8652c600e0357b4
+      internalID: -545980344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_43
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63c28cf3a5384abf8f28a0825f0e9ca
+      internalID: 1263312264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_44
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f142f0c626544641ac53292a12cbb6d
+      internalID: -1049280936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_45
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8ebd6fb62d34f6f81a2698dd7e5c2c
+      internalID: 685706845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_46
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd432b86e32e460baeb156ebf57c6c4
+      internalID: -1642831821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_47
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28568ce7012f14268bf019574f28e37c
+      internalID: -1644646522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_48
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a13edb759664a48b2ee768924ac24e
+      internalID: 1763836812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_49
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25867efe21f94a0d9f2f4cc4caa7310
+      internalID: 1443451540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_50
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8552211da765a4167b2551a1fc78bba8
+      internalID: 2145363846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_51
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4507157dbb24454b694aedcf8f84dd
+      internalID: 749108394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_52
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b555235a95d4dc39d359d33e482b43
+      internalID: 1285218244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_53
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d0c1adb806948ebbfec222f55acad7
+      internalID: 609434945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_54
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9b18e33df62470aa710c249fcc0749
+      internalID: -933403183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_55
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2510e1debe8b04ed5a299d42018af6b3
+      internalID: -839743272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_56
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f237b018861403a8b424c3ba507033
+      internalID: 646875732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_57
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66455e7736a954699b792b054a287972
+      internalID: 1018165300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_58
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a51cfd064114351bf3027d4c55f7e0
+      internalID: 779867266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_59
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9317da99bb194a77a8a86de272c5a8c
+      internalID: -542752116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_60
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8716b23104d4c27a6d1505c5fc5b78
+      internalID: -1949349779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_61
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f21551a5d2b46b5ac584c2a60b55a2
+      internalID: -679687792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_62
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 68
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be0778852bf64408b93805a9d358de0
+      internalID: -24871213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176deadaa4ef346b68a88a26477b30e1
+      internalID: -927604131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_64
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2086b1e1f1df4916927e420e0295053
+      internalID: -1387281667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_65
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efc45e793f0d4be692a4615b4dd6b14
+      internalID: 57609559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_66
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed53101e1a50454a85dcc0ea6ad702a
+      internalID: -1929659309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_67
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375dcac115c264f928f8d14d9eed55c8
+      internalID: 2102861237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_68
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f22e33cccafc4ca8ba720eacdb1f6ea
+      internalID: -1228011023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_69
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63769a2b9c9f40dd935c7dd798c92a5
+      internalID: 2063236047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_70
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4444fb7b4c1d745cba3c944ef4d63ad8
+      internalID: -79110832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_71
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36554e4b48de147db9c9349f54654352
+      internalID: 185307721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_72
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e37cae3ad6a43e08b2dc736ace1e05
+      internalID: 812541247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_73
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0b680d8d7e0446aa1375ee355f353d
+      internalID: 745544028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_74
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca80bf8b4de4f46b19c4e12ddc869878
+      internalID: -1875290808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_75
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af6333cfd4da40bf9d4ded80067ac48
+      internalID: -1304501551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_76
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a0bc638259b48f0997e0e6d64418e6
+      internalID: 1743205995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_77
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10a86126c9464f9fad8feef464fd45f
+      internalID: -1057282298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_78
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6e75c87775246e1bb2fe6e7e29f9e9
+      internalID: -334843553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_79
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cef72cd58ce4c43904c18bd06561c6
+      internalID: -116340163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_80
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bf43612be2a4619a7dd8d2a1f5730d
+      internalID: -249623044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_81
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc063199874b142ac8f3e03913f8bae4
+      internalID: 32960550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_82
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd60b72dab9040fd95537fa150368f4
+      internalID: 1409894786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_83
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec367348e9fb449b9470f143f3720e8
+      internalID: -1690487753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_84
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fbb136af7f64b1c97c6df8fa01e4df
+      internalID: -1828187056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_85
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3f71d11252d4e63bc803452cc60657
+      internalID: 1485674547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_86
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48be33ef626fc4adca14091063d4a42e
+      internalID: -367036360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_87
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db4de8e35a654edcbf130c0f475fde2
+      internalID: -2013886027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_88
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba580093aacf47f3a7bf161a297ba96
+      internalID: 1907205091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_89
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0406e910c5a5d49e48d4e0a46ed4b689
+      internalID: -708588242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_90
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ef0bdd497f642a8b40cb0cb77eb659
+      internalID: 1080687045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_91
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0981ef5b26db42e4aa69b0f74813e61
+      internalID: 2036752382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_92
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98edf33536a634c23a6b2899bb8272e3
+      internalID: 176230818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_93
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d641f39acb34b43ae3a51f0d1f1950
+      internalID: -444244644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Sword 95x49_94
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 4
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c984f959f1f87480ebf27753c2613497
+      internalID: 1899794937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sci-fi Samurai with Sword 95x49_0: -1934591175
+      Sci-fi Samurai with Sword 95x49_1: -1245138306
+      Sci-fi Samurai with Sword 95x49_10: 2014664878
+      Sci-fi Samurai with Sword 95x49_11: -1173213271
+      Sci-fi Samurai with Sword 95x49_12: -588126583
+      Sci-fi Samurai with Sword 95x49_13: 265707576
+      Sci-fi Samurai with Sword 95x49_14: -907960447
+      Sci-fi Samurai with Sword 95x49_15: 1670905579
+      Sci-fi Samurai with Sword 95x49_16: -19715548
+      Sci-fi Samurai with Sword 95x49_17: -254860972
+      Sci-fi Samurai with Sword 95x49_18: -1677575821
+      Sci-fi Samurai with Sword 95x49_19: 845396393
+      Sci-fi Samurai with Sword 95x49_2: -1292163979
+      Sci-fi Samurai with Sword 95x49_20: -51004121
+      Sci-fi Samurai with Sword 95x49_21: -1857339459
+      Sci-fi Samurai with Sword 95x49_22: 1933360938
+      Sci-fi Samurai with Sword 95x49_23: 326778546
+      Sci-fi Samurai with Sword 95x49_24: -1768862636
+      Sci-fi Samurai with Sword 95x49_25: 319341168
+      Sci-fi Samurai with Sword 95x49_26: -1361643914
+      Sci-fi Samurai with Sword 95x49_27: -1902440984
+      Sci-fi Samurai with Sword 95x49_28: -906797020
+      Sci-fi Samurai with Sword 95x49_29: 1698795575
+      Sci-fi Samurai with Sword 95x49_3: 1521802165
+      Sci-fi Samurai with Sword 95x49_30: 1811121887
+      Sci-fi Samurai with Sword 95x49_31: 1331333818
+      Sci-fi Samurai with Sword 95x49_32: 81725038
+      Sci-fi Samurai with Sword 95x49_33: -1920643299
+      Sci-fi Samurai with Sword 95x49_34: -921123492
+      Sci-fi Samurai with Sword 95x49_35: 1089525539
+      Sci-fi Samurai with Sword 95x49_36: -389298676
+      Sci-fi Samurai with Sword 95x49_37: 416193823
+      Sci-fi Samurai with Sword 95x49_38: -876432347
+      Sci-fi Samurai with Sword 95x49_39: -898489047
+      Sci-fi Samurai with Sword 95x49_4: 780043515
+      Sci-fi Samurai with Sword 95x49_40: 1058697702
+      Sci-fi Samurai with Sword 95x49_41: -1038967966
+      Sci-fi Samurai with Sword 95x49_42: -545980344
+      Sci-fi Samurai with Sword 95x49_43: 1263312264
+      Sci-fi Samurai with Sword 95x49_44: -1049280936
+      Sci-fi Samurai with Sword 95x49_45: 685706845
+      Sci-fi Samurai with Sword 95x49_46: -1642831821
+      Sci-fi Samurai with Sword 95x49_47: -1644646522
+      Sci-fi Samurai with Sword 95x49_48: 1763836812
+      Sci-fi Samurai with Sword 95x49_49: 1443451540
+      Sci-fi Samurai with Sword 95x49_5: 1110404147
+      Sci-fi Samurai with Sword 95x49_50: 2145363846
+      Sci-fi Samurai with Sword 95x49_51: 749108394
+      Sci-fi Samurai with Sword 95x49_52: 1285218244
+      Sci-fi Samurai with Sword 95x49_53: 609434945
+      Sci-fi Samurai with Sword 95x49_54: -933403183
+      Sci-fi Samurai with Sword 95x49_55: -839743272
+      Sci-fi Samurai with Sword 95x49_56: 646875732
+      Sci-fi Samurai with Sword 95x49_57: 1018165300
+      Sci-fi Samurai with Sword 95x49_58: 779867266
+      Sci-fi Samurai with Sword 95x49_59: -542752116
+      Sci-fi Samurai with Sword 95x49_6: -1715954653
+      Sci-fi Samurai with Sword 95x49_60: -1949349779
+      Sci-fi Samurai with Sword 95x49_61: -679687792
+      Sci-fi Samurai with Sword 95x49_62: -24871213
+      Sci-fi Samurai with Sword 95x49_63: -927604131
+      Sci-fi Samurai with Sword 95x49_64: -1387281667
+      Sci-fi Samurai with Sword 95x49_65: 57609559
+      Sci-fi Samurai with Sword 95x49_66: -1929659309
+      Sci-fi Samurai with Sword 95x49_67: 2102861237
+      Sci-fi Samurai with Sword 95x49_68: -1228011023
+      Sci-fi Samurai with Sword 95x49_69: 2063236047
+      Sci-fi Samurai with Sword 95x49_7: 1013734924
+      Sci-fi Samurai with Sword 95x49_70: -79110832
+      Sci-fi Samurai with Sword 95x49_71: 185307721
+      Sci-fi Samurai with Sword 95x49_72: 812541247
+      Sci-fi Samurai with Sword 95x49_73: 745544028
+      Sci-fi Samurai with Sword 95x49_74: -1875290808
+      Sci-fi Samurai with Sword 95x49_75: -1304501551
+      Sci-fi Samurai with Sword 95x49_76: 1743205995
+      Sci-fi Samurai with Sword 95x49_77: -1057282298
+      Sci-fi Samurai with Sword 95x49_78: -334843553
+      Sci-fi Samurai with Sword 95x49_79: -116340163
+      Sci-fi Samurai with Sword 95x49_8: -831733956
+      Sci-fi Samurai with Sword 95x49_80: -249623044
+      Sci-fi Samurai with Sword 95x49_81: 32960550
+      Sci-fi Samurai with Sword 95x49_82: 1409894786
+      Sci-fi Samurai with Sword 95x49_83: -1690487753
+      Sci-fi Samurai with Sword 95x49_84: -1828187056
+      Sci-fi Samurai with Sword 95x49_85: 1485674547
+      Sci-fi Samurai with Sword 95x49_86: -367036360
+      Sci-fi Samurai with Sword 95x49_87: -2013886027
+      Sci-fi Samurai with Sword 95x49_88: 1907205091
+      Sci-fi Samurai with Sword 95x49_89: -708588242
+      Sci-fi Samurai with Sword 95x49_9: -1986918394
+      Sci-fi Samurai with Sword 95x49_90: 1080687045
+      Sci-fi Samurai with Sword 95x49_91: 2036752382
+      Sci-fi Samurai with Sword 95x49_92: 176230818
+      Sci-fi Samurai with Sword 95x49_93: -444244644
+      Sci-fi Samurai with Sword 95x49_94: 1899794937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
